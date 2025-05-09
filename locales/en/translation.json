@@ -1,0 +1,130 @@
+{
+  "introduction": {
+    "home": {
+      "description": "The healing power of everyday spaces."
+    },
+    "monsters": {
+      "word1_1": "There are",
+      "word1_2": "7.5 million",
+      "word1_3": "people living in Hong Kong.",
+      "word2_1": "Our city should be designed to",
+      "word2_2": "accommodate the <blue>wellbeing</blue> and",
+      "word2_3": "<blue>healing needs</blue> of all of its people.",
+      "bubble": "and that includes <blue>YOU</blue> too!"
+    },
+    "feeling": {
+      "voting_title": "So, how are you feeling lately?",
+      "bubble": "Let's see how <blue>everybody</blue> else is doing...",
+      "result_title": "<blue>Tap</blue> on the characters to view <inlineblock>voting results.</inlineblock>",
+      "you": "You",
+      "vote": " audience voted for {{feeling}}."
+    },
+    "walking": {
+      "title1": "Well, it seems that quite a number of us",
+      "title2": "are <blue>not doing well.</blue>"
+    },
+    "statistics": {
+      "title": "How about <blue>Hong Kong people</blue> in general?",
+      "subtitle": "<blue>Tap</blue> on the objects for more information.",
+      "stat1_title": "1/4",
+      "stat1_content": "Hongkongers has <inlineblock>below-average well-being.</inlineblock>",
+      "stat1_source": "(Source: New Life Psychiatric Rehabilitation Association)",
+      "stat2_title": "96%",
+      "stat2_content": "Hongkonger has symptoms of <inlineblock>overwork/ burnout.</inlineblock>",
+      "stat2_source": "(Source: Cigna Healthcare HK)",
+      "stat3_title": "74%",
+      "stat3_content": "of mental health sufferers do not <inlineblock>seek any form of professional help.</inlineblock>",
+      "stat3_source": "(Source: Social Psychiatry and Psychiatric Epidemiology)",
+      "stat4_title": "86th",
+      "stat4_content1": "Hong Kong ranked",
+      "stat4_content2": "out of 143 countries and regions <inlineblock>in the 2024 World Happiness Report.</inlineblock>",
+      "stat4_source": "(Source: World Happiness Report)"
+    },
+    "healing": {
+      "bubble1": "Even if you are not experiencing issues with physical or mental health, healing spaces are <blue>essential</blue> for <blue>our well-being</blue>.",
+      "bubble2": "<blue>Everyone</blue> needs <blue>healing spaces</blue>, even if they <inlineblock>don't need it all the time.</inlineblock>",
+      "bubble3": "BUT...what is <blue>healing</blue>?",
+      "bubble4": "What does it mean <blue>to be healed</blue>?",
+      "bubble5": "Where can I go to get <blue>\"healed\"</blue>?"
+    }
+  },
+  "body": {
+    "introduction": {
+      "title1": "Let's explore other",
+      "title2": "healing story",
+      "title3": "to learn more!",
+      "bubble1": "Let me tell you my story.",
+      "bubble2": "6 months ago, I was in a car accident and ended up with some busted bones, nasty cuts and bruises all over."
+    },
+    "hospital": {
+      "board_title": "What is CURING?",
+      "board_content": "Curing focus on the comprehensive treatment of <blue>diseases</blue>, or <blue>elimination of damages</blue> or <blue>conditions</blue>.",
+      "bubble1": "I had to stay in the hospital for quite some time while the doctors worked their magic putting me back together again.",
+      "bubble2": "Now I'm all patched up, but I've lost some mobility and I'm still pretty traumatised. I'm feeling a bit lost about what to do or where to go from here."
+    },
+    "imagination": {
+      "bubble1": "Somewhere that I don't feel judged?",
+      "bubble2": "Somewhere that I can easily seek professional help?",
+      "bubble3": "Somewhere that will make me feel more at ease?",
+      "bubble4_title": "What is HEALING?",
+      "bubble4_content": "Healing is a holistic, transformative process of repair and recovery in <orange>mind, body, and spirit</orange> resulting in positive change, finding meaning, and movement towards self-realisation of wholeness, <orange>regardless of the presence or absence of disease.</orange>"
+    },
+    "street": {
+      "bubble1": "Hmm... I really need a place where I can focus on getting in better shape and getting used to transitioning back to normal life after this injury.",
+      "bubble2": "Maybe somewhere<div><bold>OUTSIDE OF HOME</bold>?</div>My home is so small and cramped and I do not feel good in it...",
+      "bubble3": "Existing curing-focused spaces are mostly <bold>for those with the most pressing needs</bold> (e.g. elderly, severely disabled, chronically-ill). Plus, a referral is required most of the time.",
+      "bubble4": "So where can I go?",
+      "word": "This is just one example illustrating the difficulty in finding a space <block>for healing. This issue might be more common than we think...</block>"
+    },
+    "parkright": {
+      "bubble1": "Have you ever experienced or known anyone who has faced similar conditions?",
+      "bubble2": "How can we make our city more supportive of everyone who needs to be healed?"
+    }
+  },
+  "ending": {
+    "parkleft": {
+      "bubble": "Where can I find <blue>healing spaces</blue> in our city?..."
+    },
+    "spaces": {
+      "title": "Let's see what people online are suggesting!",
+      "opt_cafe": "Cafés",
+      "opt_island": "Islands",
+      "opt_beach": "Beaches",
+      "opt_supermarket": "Supermarkets",
+      "opt_aircraft": "Aircraft Maintenance Area",
+      "opt_tram": "Tram Rides",
+      "opt_home": "Home",
+      "bubble": "I don't know if these suggestions are a good fit for me..."
+    },
+    "quiz": {
+      "title1": "What is your",
+      "title2": "\"healing profile\"?",
+      "bubble": "Let's find out what kinds of healing spaces are a good fit for you!",
+      "link_skip": "Click here if you want to skip the test.",
+      "q1_indoor": "Indoor Spaces",
+      "q1_outdoor": "Outdoor Spaces",
+      "q2_quiet": "Quiet Spaces",
+      "q2_lively": "Lively Spaces",
+      "q3_gentle": "Spaces with Gentle Colours",
+      "q3_vibrant": "Spaces with Vibrant Colours",
+      "word_loading": "Generating Result...",
+      "word_tap": "Tap on cards to see results",
+      "btn_start": "Start",
+      "btn_showall": "See everyone else's result",
+      "btn_playagain": "Play Again"
+    }
+  },
+  "common": {
+    "scroll_learnmore": "Scroll to learn more",
+    "scroll_continue": "Scroll to continue",
+    "scroll_down_continue": "Scroll down to continue",
+    "scroll_skip": "Scroll down to skip",
+    "progress1": "How Are You Feeling Lately",
+    "progress2": "Our Healing Story",
+    "progress3": "Your Healing Profile",
+    "angry": "angry",
+    "sad": "sad",
+    "calm": "calm",
+    "joyful": "joyful"
+  }
+}

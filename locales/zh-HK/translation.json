@@ -1,0 +1,130 @@
+{
+  "introduction": {
+    "home": {
+      "description": "蘊藏着療癒力量的城市空間。"
+    },
+    "monsters": {
+      "word1_1": "香港有大約",
+      "word1_2": "<en>750</en>萬人",
+      "word1_3": "居住。",
+      "word2_1": "我們的城市應要能",
+      "word2_2": "照顧所有人的",
+      "word2_3": "<blue>身心靈健康</blue>和<blue>療癒</blue>需要。",
+      "bubble": "包括<blue>你</blue>在內! "
+    },
+    "feeling": {
+      "voting_title": "嗯... 所以你還好嗎？你的心情怎麼樣？",
+      "bubble": "我們來看看<blue>大家</blue>最近過得怎麼樣吧！",
+      "result_title": "<blue>點擊</blue>小怪獸查看投票結果。",
+      "you": "你",
+      "vote": " 的觀眾最近感到{{feeling}}。"
+    },
+    "walking": {
+      "title1": "嗯，看起來我們有不少人",
+      "title2": "狀態都<blue>不太好</blue>..."
+    },
+    "statistics": {
+      "title": "那麼普遍<blue>香港人</blue>過得還好嗎？",
+      "subtitle": "<blue>點擊</blue>數字以閱讀更多資訊。",
+      "stat1_title": "<en>1/4</en>",
+      "stat1_content": "香港人身心靈健康不合格。",
+      "stat1_source": "（資料來源：新生精神康復會）",
+      "stat2_title": "<en>96%</en>",
+      "stat2_content": "香港人受過勞問題困擾。",
+      "stat2_source": "（資料來源：信諾環球調查）",
+      "stat3_title": "<en>74%</en>",
+      "stat3_content": "精神病患者並沒有尋求任何專業協助。",
+      "stat3_source": "（資料來源：<en>Social Psychiatry and Psychiatric Epidemiology</en>）",
+      "stat4_title": "第<en>86</en>位",
+      "stat4_content1": "整合全球<en>143</en>個國家及地區的幸福指數，<inlineblock>香港只排名</inlineblock>",
+      "stat4_content2": "與去年相比再下跌<en>4</en>位。",
+      "stat4_source": "（資料來源：世界幸福報告）"
+    },
+    "healing": {
+      "bubble1": "即使你現在沒有身體或心理上的健康問題，療癒空間對我們的<inlineblock><blue>身心健康</blue>是<blue>不可或缺的</blue>。</inlineblock>",
+      "bubble2": "<blue>每個人</blue>總會需要<blue>療癒空間</blue>，儘管並非時常使用它。",
+      "bubble3": "但是... 甚麼是<blue>療癒</blue>？",
+      "bubble4": "<blue>被療癒</blue>意味著甚麼？",
+      "bubble5": "我可以去哪裡<blue>被療癒</blue>？"
+    }
+  },
+  "body": {
+    "introduction": {
+      "title1": "一起看看我們的",
+      "title2": "療癒旅程",
+      "title3": "以探索更多！",
+      "bubble1": "讓我分享一下我的經歷吧。",
+      "bubble2": "半年前我發生了一場車禍，結果骨頭斷了幾根，身上到處都是嚴重的割傷和瘀青。"
+    },
+    "hospital": {
+      "board_title": "甚麼是治療？",
+      "board_content": "治療是針對<blue>疾病</blue>進行全面的處理，或<blue>消除身體的損傷</blue>和<blue>不適</blue>。",
+      "bubble1": "我不得不在醫院待一段時間，並在醫生團隊們的治療下逐漸恢復。",
+      "bubble2": "我的傷已經痊癒，但還是有點行動不便，同時亦因意外留下了創傷及精神障礙。現在的我很迷茫，不知道接下來該怎樣做或去哪裏。"
+    },
+    "imagination": {
+      "bubble1": "應該去一些不會被人批評的地方嗎？",
+      "bubble2": "抑或去一些可以輕鬆尋求專業協助的地方？",
+      "bubble3": "還是去一些讓我感覺安心自在的地方呢？",
+      "bubble4_title": "甚麼是療癒？",
+      "bubble4_content": "療癒是一個全面的轉變過程，涉及身心靈的修復與恢復。無論有沒有疾病，療癒過程可帶來積極的變化和發現，促進自我實現的完整性。"
+    },
+    "street": {
+      "bubble1": "嗯... 我真的很需要一個可以讓我專注於身體復原，並逐漸適應受傷後生活的地方。",
+      "bubble2": "<div>或許<bold>在家以外的地方</bold>？</div><div>我的家狹窄又壓迫，</div>不是一個好選擇呢...",
+      "bubble3": "現有的治療空間及場所主要為<bold>最有迫切需要的人</bold>提供服務（例如長者、嚴重殘疾人士、慢性病患者)。此外，大部份的復康中心亦只接受經醫生轉介的個案。",
+      "bubble4": "那麼我還有甚麼選擇呢？",
+      "word": "這只是其中一個展現尋找療癒空間過程困難重重的例子。<block>這個問題甚或比我們想像中更常見...</block>"
+    },
+    "parkright": {
+      "bubble1": "你有否曾經經歷過或認識任何遇過相似處境的人？",
+      "bubble2": "我們可如何令城市空間更照顧到每個人的身心靈健康和療癒需要？"
+    }
+  },
+  "ending": {
+    "parkleft": {
+      "bubble": "我可以在城市中找到<blue>療癒空間</blue>嗎？..."
+    },
+    "spaces": {
+      "title": "我們來看看網路上的人有甚麼建議吧！",
+      "opt_cafe": "咖啡店",
+      "opt_island": "離島",
+      "opt_beach": "沙灘",
+      "opt_supermarket": "超級市場",
+      "opt_aircraft": "機場維修區",
+      "opt_tram": "電車",
+      "opt_home": "家",
+      "bubble": "我不肯定這些建議是否適合我..."
+    },
+    "quiz": {
+      "title1": "尋找你的",
+      "title2": "「療癒風格」",
+      "bubble": "我們來看看甚麼類型的療癒空間最適合你！",
+      "link_skip": "按此跳過測驗",
+      "q1_indoor": "室內空間",
+      "q1_outdoor": "戶外空間",
+      "q2_quiet": "少人寧靜的地方",
+      "q2_lively": "人多熱鬧的地方",
+      "q3_gentle": "色調柔和的地方",
+      "q3_vibrant": "色調鮮艷的地方",
+      "word_loading": "正在分析答案...",
+      "word_tap": "點擊卡片查看結果",
+      "btn_start": "開始測驗",
+      "btn_showall": "查看其他人的測驗結果",
+      "btn_playagain": "再試一次"
+    }
+  },
+  "common": {
+    "scroll_learnmore": "向下滑動以探索更多",
+    "scroll_continue": "向下滑動繼續",
+    "scroll_down_continue": "向下滑動繼續",
+    "scroll_skip": "向下滑動略過",
+    "progress1": "你最近還好嗎",
+    "progress2": "探索療癒旅程",
+    "progress3": "你的療癒風格",
+    "angry": "憤怒",
+    "sad": "悲愁",
+    "calm": "平靜",
+    "joyful": "快樂"
+  }
+}
